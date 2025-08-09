@@ -21,6 +21,7 @@ dependencies = [
   "notebook",
   "attrs",
   "matplotlib",
+  "pandas",
 ]
 
 classifiers = [
